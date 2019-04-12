@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Harsh Resume Template"
+description: "A resume template for Harsh and iharsh08 Pages sites."
 
 # Build settings
 markdown: kramdown
@@ -32,13 +32,13 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
+  resume_github_url:            "https://github.com/eddy08/resume"
+  resume_twitter_url:           "http://twitter.com/H4harshbhardwaj"
   resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
+  resume_facebook_url:          "https://fb.com/bhardwajharsh08"
+  resume_linkedin_url:          "https://www.linkedin.com/in/iharsh08"
+  resume_instagram_url:         "https://instagram.com/bhardwajharsh08"
+  resume_website_url:           "http://iharsh08.blogspot.com"
 resume_print_social_links:      true
 
 # Design settings
